@@ -1,25 +1,25 @@
-# Housing Prices: Advanced Linear Techniques
+# Housing Prices: Advanced Linear Techniques (Kaggle Dataset)
 
-- [x] Data Analytics table has been created to note feature modifications.
+**- [x] Data Analytics table has been created to note feature modifications.**
 
-- [] Explore the Data
-  - [x] Features have been sorted.
-  - [x] Missing Values have been identified.
-  - [X] Look for correlation between attributes.
-  - [] Identify Data Transformations to apply.
-  - [] Check for noise & outliers.
+- [ ] Explore the Data
+**- [x] Features have been sorted.**
+**- [x] Missing Values have been identified.**
+**- [X] Look for correlation between attributes.
+  - [ ] Identify Data Transformations to apply.
+  - [ ] Check for noise & outliers.
   
 - [ ] Data Prep
-  - [x] Functions or Pipeline have been written for all data preperation.
-  - [x] Misssing Values have been filled or dropped.
-  - [] Feature Selection.
-  - [] Feature Engineer.
-  - [] Apply Transformations.
-  - [x] Data has been Scaled.
+  **- [x] Functions or Pipeline have been written for all data preperation.
+  **- [x] Misssing Values have been filled or dropped.
+  - [ ] Feature Selection.
+  - [ ] Feature Engineer.
+  - [ ] Apply Transformations.
+  **- [x] Data has been Scaled.
   
-- [] Model Building
-  - [x] Pipeline has been setup for quick changes of data prep and model selection.
-  - [x] Pipleine w/ cross fold validation of LinearRegression, Ridge, Lasso, Huber models.
-  - [] Random Forest
-  - [] Ensamble Methods
-  - [] Grid/Random hyperparamater tuning.
+- [ ] Model Building
+  **- [x] Pipeline has been setup for quick changes of data prep and model selection.
+  **- [x] Pipleine w/ cross fold validation of LinearRegression, Ridge, Lasso, Huber models.
+  - [ ] Random Forest
+  - [ ] Ensamble Methods
+  - [ ] Grid/Random hyperparamater tuning.
