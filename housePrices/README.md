@@ -1,6 +1,6 @@
 # Housing Prices: Advanced Linear Techniques (Kaggle Dataset)
 
-**- [x] Data Analytics table has been created to note feature modifications.**
+- [x] **Analytics Data table has been created to note feature modifications.**
 
 - [ ] *Explore the Data*
   - [x] **Features have been sorted.**
